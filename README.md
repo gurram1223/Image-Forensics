@@ -10,3 +10,7 @@ Image Forgery Detection is a Classification problem. Given the image data, the c
 
 # Image Forgery Localization
 Image Forgery Localization attempts to detect accurate tampered areas. Given images and their corresponding ground truths, we need to conduct pixel-level analysis to locate tampered areas.
+
+Example: 
+
+![Output text](https://github.com/gurram1223/Image-Forensics/blob/master/Image%20Forensic%20output.PNG)
